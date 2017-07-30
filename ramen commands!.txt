@@ -1,0 +1,10 @@
+/makeramen => makeramen
+/stove/med => turn stove to medium heat
+/stove/low => turn stove to low heat
+/stove/off => turn stove off
+
+
+
+
+
+*stove can't turn to off because of servo limitations
