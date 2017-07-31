@@ -1,4 +1,5 @@
 # BOBS-ramen
+# Have you ever been starving after classes? Bob's Ramen can remotely pre-prepare ramen with a tap of a phone.
 
 Inspiration:
 
