@@ -1,6 +1,6 @@
-# BOBS-ramen
+# BOB'S ramen
 # Have you ever been starving after classes? Bob's Ramen can remotely pre-prepare ramen with a tap of a phone.
-
+![Alt text](https://github.com/vidhartbhatia/BOBS-ramen/blob/master/bob's%20ramen/bob's%20ramen/Assets.xcassets/Ramen-1.imageset/Ramen.png?raw=true)
 Inspiration:
 
 Sometimes in college, you don't have time to cook, and you want food ready for you when you get home.
